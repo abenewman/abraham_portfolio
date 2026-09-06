@@ -1,0 +1,37 @@
+# Site-wide settings. Everything here appears in the sidebar or on the home page.
+# Keep the quotes around each value.
+
+name: "Abraham Newman"
+role: "Writer & Story Editor"
+discipline: "Film, Television & Narrative Media"
+location: "Los Angeles, CA"
+email: "abraham.newman@example.com"
+
+# The one line under your name on the home page.
+tagline: "I write stories about people who are almost, but not quite, telling the truth."
+
+# The short intro above the project list on the Work page.
+workIntro: "Six pieces across screenwriting, television, criticism and production. Placeholder copy - swap this for a line on what ties the work together."
+
+# The teaser in the box at the bottom of the home page.
+homeAboutTeaser: "Placeholder line about who Abraham is and what kind of rooms he wants to be in. Two sentences, no more."
+
+# The file people download from the Resume page.
+# Put the PDF in the "public" folder and write its name here after the slash.
+resumeFile: "/abraham-newman-resume.pdf"
+
+# Links in the bottom of the sidebar and on the About page.
+# Delete any you do not want. Add more by copying the same three lines.
+socials:
+  - label: "Instagram"
+    href: "https://instagram.com/"
+    handle: "@placeholder"
+  - label: "Letterboxd"
+    href: "https://letterboxd.com/"
+    handle: "@placeholder"
+  - label: "LinkedIn"
+    href: "https://linkedin.com/"
+    handle: "/in/placeholder"
+  - label: "Vimeo"
+    href: "https://vimeo.com/"
+    handle: "/placeholder"

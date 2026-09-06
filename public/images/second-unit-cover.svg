@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img"><defs>
+  <filter id="g20" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="20" result="n"/>
+    <feColorMatrix type="saturate" values="0" in="n" result="m"/>
+    <feComponentTransfer in="m" result="t"><feFuncA type="linear" slope="0.055"/></feComponentTransfer>
+    <feComposite operator="over" in="t" in2="SourceGraphic"/>
+  </filter></defs><g filter="url(#g20)"><rect width="1200" height="900" fill="#f0e8da"/><rect x="295.78079606399996" y="372.1193889368393" width="592.9464" height="387.1492317468" rx="9.6" fill="#b07a3c" opacity="0.6" style="mix-blend-mode:multiply"/><rect x="588.5188859520001" y="31.055825555508026" width="577.1496" height="394.36949600279996" rx="9.6" fill="#dcc08b" opacity="0.6" style="mix-blend-mode:multiply"/><rect x="539.99622324" y="279.09150130716904" width="650.3016" height="446.46553893239997" rx="9.6" fill="#7a5326" opacity="0.6" style="mix-blend-mode:multiply"/><rect x="202.546082736" y="289.0147904217211" width="484.94640000000004" height="346.3848473868" rx="9.6" fill="#faf5eb" opacity="0.6" style="mix-blend-mode:multiply"/><rect x="256.614518448" y="219.7133778781014" width="675.4512" height="422.6527811808" rx="9.6" fill="#b07a3c" opacity="0.6" style="mix-blend-mode:multiply"/></g></svg>

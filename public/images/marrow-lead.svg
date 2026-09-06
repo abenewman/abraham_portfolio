@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1012" width="1800" height="1012" role="img"><defs>
+  <filter id="g18" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="18" result="n"/>
+    <feColorMatrix type="saturate" values="0" in="n" result="m"/>
+    <feComponentTransfer in="m" result="t"><feFuncA type="linear" slope="0.055"/></feComponentTransfer>
+    <feComposite operator="over" in="t" in2="SourceGraphic"/>
+  </filter></defs><g filter="url(#g18)"><rect width="1800" height="1012" fill="#efe2d8"/><rect x="0" y="627.4399999999999" width="1800" height="384.56" fill="#6d3a3c" opacity="0.7"/><path d="M 596.4000000000001 809.5999999999999 Q 566.04 232.76000000000005 900 187.22000000000003 Q 1249.1399999999999 263.12 1142.88 809.5999999999999 Z" fill="#a8524f"/><ellipse cx="954.648" cy="445.28" rx="127.51199999999999" ry="157.87199999999999" fill="#d99f7a" opacity="0.85"/><circle cx="626.76" cy="247.94000000000005" r="72.86399999999999" fill="#f8f2ea" opacity="0.9"/></g></svg>

@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 967 >>
+stream
+BT
+/F2 22 Tf
+1 0 0 1 62 760 Tm
+(Abraham Newman) Tj
+/F1 11 Tf
+1 0 0 1 62 730 Tm
+(Writer & Story Editor  ·  Los Angeles, CA  ·  abraham.newman@example.com) Tj
+/F2 11 Tf
+1 0 0 1 62 698 Tm
+(PLACEHOLDER RESUME) Tj
+/F1 11 Tf
+1 0 0 1 62 680 Tm
+(This is a stand-in file so the Download button works end to end.) Tj
+/F1 11 Tf
+1 0 0 1 62 662 Tm
+(Replace public/abraham-newman-resume.pdf with the real resume PDF.) Tj
+/F1 11 Tf
+1 0 0 1 62 644 Tm
+(The filename is set in src/content/site.ts \(resumeFile\).) Tj
+/F2 11 Tf
+1 0 0 1 62 612 Tm
+(EDUCATION) Tj
+/F1 11 Tf
+1 0 0 1 62 594 Tm
+(Placeholder University - B.A. Film & Media Studies, 2023-2027) Tj
+/F2 11 Tf
+1 0 0 1 62 562 Tm
+(EXPERIENCE) Tj
+/F1 11 Tf
+1 0 0 1 62 544 Tm
+(Placeholder Production Company - Development Intern, Summer 2025) Tj
+/F1 11 Tf
+1 0 0 1 62 526 Tm
+(Placeholder Student Magazine - Film Editor, 2024-present) Tj
+/F1 11 Tf
+1 0 0 1 62 508 Tm
+(Placeholder Student Feature - Writer & Assistant Editor, 2023) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001268 00000 n 
+0000001338 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1413
+%%EOF
