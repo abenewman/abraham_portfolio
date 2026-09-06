@@ -8,9 +8,9 @@ not.
 
 ## Start here
 
-- **[SETUP.md](SETUP.md)** - installing everything on a Mac from scratch and
-  getting the site running locally. Written for someone who has never used a
-  developer tool.
+- **[SETUP.md](SETUP.md)** - installing everything on a Mac from scratch:
+  VS Code, Node.js, and GitHub Desktop for cloning and publishing. Written for
+  someone who has never used a developer tool.
 - **[EDITING.md](EDITING.md)** - adding writing and images, and creating new
   project pages. No code required.
 

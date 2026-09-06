@@ -171,25 +171,28 @@ both when your résumé changes.
 
 ## Publishing your changes
 
-If the site is connected to Vercel through GitHub, publishing is:
+Your edits live only on your computer until you publish them. Open
+**GitHub Desktop**:
 
-```bash
-git add -A
-git commit -m "Update projects"
-git push
-```
+1. Your changed files are listed down the left. Click any one to see exactly
+   what you changed, in case something was edited by accident.
+2. Bottom left, type a short note in the **Summary** box, for example
+   `Add new project page`.
+3. Click **Commit to main**.
+4. Click **Push origin** at the top.
 
-Vercel rebuilds and the live site updates in about a minute. If a content file
-has an error, the build fails and **the currently live site stays up** - it will
-not publish a broken page.
+The live site rebuilds itself within a minute or two.
 
-Before pushing, it is worth running:
+If a content file has a mistake in it, the rebuild fails and **the currently
+live site stays exactly as it was** - a typo cannot take the site down.
+
+To catch problems before publishing, run this in the VS Code terminal:
 
 ```bash
 npm run build
 ```
 
-If that finishes without an error, the deploy will succeed.
+If it finishes without an error, publishing will work.
 
 ---
 
@@ -218,3 +221,7 @@ that you saved the file - unsaved files show a dot in the VS Code tab.
 
 **Something looks wrong but there is no error**
 Stop the site with `Control` + `C` and run `npm run dev` again.
+
+**Worried about breaking the live site?**
+Nothing you save is published until you commit and push it from GitHub Desktop,
+so you can experiment freely on your own machine.
