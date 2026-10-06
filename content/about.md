@@ -7,11 +7,11 @@ portraitCaption: "Caricature Portrait - Acorn Caricatures."
 currently:
   - "Finishing the second draft of an adaptation proposal and pretending it's the last one."
   - "Composing the musical pieces for an original animated screenplay."
-  - "Working on the script for an expansive family adventure animted feature."
+  - "Working on the script for an expansive family adventure animated feature."
   - "Collaborating with artists to publish Children's Picture Books."
   - "Finishing a first draft of a High Fantasy Novel (life long project)."
   - "Building an expansive Sci-Fi world with co-writer Caleb Kira."
-  - "Looking for a summer internship in development, story, or the writers' room."
+  - "Looking for a summer internship in feature development, production, or the writers' room."
 ---
 
 I grew up on California’s Central Coast in San Luis Obispo County, where I spent much of my childhood reading through the fantasy and science fiction shelves at my local library. When I ran out of stories to read, I began writing my own. What started as poems and short stories quickly grew into my first major project: a five-book high fantasy series that I’m still developing.

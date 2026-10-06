@@ -31,35 +31,22 @@ experience:
       - "Assisted the edit through picture lock, including a second-act restructure."
 
 education:
-  - school: "Placeholder University"
-    credential: "B.A. Film & Media Studies, minor in Creative Writing"
-    dates: "2023 - 2027"
-    detail: "Placeholder detail - GPA, honours, relevant coursework, or a thesis title."
+  - school: "California Polytechnic University"
+    credential: "B.A. Political Science, concentration in Global Politics"
+    dates: "2024 - 2028"
+    detail: "Deans List for 5 terms"
 
 # Each heading becomes a column. Add or remove headings and items freely.
 skills:
   Writing:
     - "Screenwriting"
-    - "Series development"
-    - "Criticism & essays"
-    - "Coverage"
+    - "Novel Development"
+    - "Research Papers"
+    - "Children's Picture Books"
   Production:
-    - "Script supervision"
-    - "Assistant editing"
-    - "Table reads"
-    - "Scheduling"
+    - "Script Coverage"
+    - "Story Analysis"
+    - "Adaptation Proposals"
   Tools:
     - "Final Draft"
-    - "Highland"
-    - "Adobe Premiere"
-    - "Notion"
-    - "Airtable"
-
-awards:
-  - title: "Placeholder Screenwriting Competition - Semifinalist"
-    detail: "2025"
-  - title: "Placeholder Departmental Writing Prize"
-    detail: "2024"
-  - title: "Placeholder Student Film Festival - Official Selection"
-    detail: "2024"
----
+    - "Google Suite"
