@@ -1,33 +1,43 @@
 ---
-title: "Second Unit"
-navLabel: "Second Unit"
+title: "Story Analysis & Development"
+navLabel: "Story Analysis & Development"
 kicker: "Production writing"
-year: "2023"
-format: "Production diary · twelve entries"
-logline: "Twelve entries written across a fourteen-day student feature shoot, about what actually happens between the shots."
+year: "2026"
+format: "Animation Feature Screenplay"
+logline: "Sample Script Coverages and Animated Adaptation Proposals to showcase a more anlaytical skillset."
 
 cover: "/images/second-unit-cover.svg"
 coverAlt: "Abstract composition of warm overlapping frames"
 
-lead: "/images/second-unit-lead.svg"
-leadAlt: "Wide abstract composition of offset warm frames on a cream field"
-leadCaption: "Placeholder image - replace with a behind-the-scenes photo."
+lead: ""
 
-facts:
-  "Format": "Production diary"
-  "Entries": "Twelve"
-  "Role": "Writer & Assistant Editor"
-  "Production": "Fourteen-day student feature"
-  "Written": "2023"
+---
 ---
 ## What this is
 
-Placeholder copy. Not every portfolio piece has to be a finished dramatic work. This one exists to show that you can write clearly under pressure and that you understand how a set actually runs.
+These samples demonstrate my skills in story analysis and development. Through industry-style script coverages, I evaluate narrative structure, character, theme, pacing, and audience appeal. My adaptation work applies those same analytical skills to source material, identifying its film potential and developing a focused vision for an animated short series.
 
-Written nightly across a fourteen-day shoot, mostly in a car, usually after fifteen hours. The entries are unglamorous on purpose. They are about the twenty minutes a day where the whole production quietly decides what kind of film it is going to be.
+## The Wild Robot
+Animated Feature · Script Coverage                                                  
+An analysis of the screenplay’s emotional architecture, character relationships, thematic development, and adaptation of its central premise.  
+View Coverage →  
+https://docs.google.com/document/d/1VytBx1L0qnwmHXTsWPrqOqBcvJVL2bQ2tUiAq7k8c4c/edit?usp=sharing
 
-![Abstract composition of nested warm rectangles](/images/second-unit-detail-1.svg "Day four.")![Abstract composition of a warm arc over horizontal rules](/images/second-unit-detail-2.svg "Day eleven.")
+## Zootopia
+Animated Feature · Script Coverage  
+An analysis of the screenplay's whimsical characters, gripping adventure, and thematic development in support of its central premise.  
+View Coverage →  
+https://docs.google.com/document/d/1dn1jenEbKxVXsGxRURrQuv4biV0kcaBrbbeBn3V9TNU/edit?usp=sharing
+
+---
+
+## Animated Short Film Series Adaptation Proposal
+Fairytales Reimagined  
+A development-focused adaptation proposal for an animated anthology of Hans Christian Andersen and Brothers Grimm fairytales. The project reimagines these enduring stories through modern visual development while preserving their darker emotional themes and the intimate, storybook quality of an older era of storytelling.  
+Explore the Adaptation Proposal →  
+https://docs.google.com/document/d/1Bzmji0GLwuUkn-t2McfhreKcGPVWGRqRaISpFlObMcE/edit?usp=sharing
+
+---
 
 ## What it taught me
-
-End with the transferable lesson. A reader hiring an intern is asking one question: will this person be useful on day one? Answer it here, plainly, without overclaiming.
+Developing these script coverages and adaptation proposals trained me to look beyond what I enjoy in a story and evaluate what would make it work on screen by identifying its central themes, making clear creative choices, and delivering these choices in a manner easily discussed and built upon by a creative team. .

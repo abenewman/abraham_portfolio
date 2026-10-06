@@ -1,35 +1,43 @@
 ---
-title: "Field Notes on the Sublime"
-navLabel: "Field Notes"
-kicker: "Essays & criticism"
-year: "2023 - 2025"
+title: "Children's Picture Books"
+navLabel: "Children's Picture Books"
+kicker: "Children's Picture Book - In Progress"
+year: "2026"
 format: "Essay collection · nine pieces"
-logline: "An ongoing series of essays about spectacle, sincerity, and why we still cry at films we know are manipulating us."
+logline: "Various children's picture book projects working in conjunction with talented artists and ilustrators."
 
-cover: "/images/field-notes-cover.svg"
+cover: "/images/Bubble_jpeg.jpg"
 coverAlt: "Abstract composition of layered warm paper planes"
 
-lead: "/images/field-notes-lead.svg"
-leadAlt: "Wide abstract composition of stacked translucent warm planes"
-leadCaption: "Placeholder image - replace with a spread, screenshot, or cover."
 
 facts:
-  "Format": "Essays & criticism"
-  "Pieces": "Nine, ongoing"
-  "Length": "1,500 - 4,000 words"
-  "Published": "Student press & personal site"
-  "Written": "2023 - 2025"
+  "Format": "Children's Picture Books"
+  "Pieces": "Two
+  "Collaboration": "Various Artists"
+  "Status": "In Progress"
+  "Written": "2025 - 2026"
 ---
-## About the series
+## About the Work
 
-Placeholder copy. For a body of written work, give the through-line first. Nine essays are not a portfolio piece; nine essays circling the same question are.
+I have always loved storytelling catered towards a younger audience. It was "The Secrets of Droon" by Tony Abbot that got me into reading fantasy as a little kid, and picture books such as "The Little House" by Virgina Lee Burton, whose messages stayed with me until the present day, that inpsired me to create children's picture books of my own.
 
-The question here is whether knowing how a thing works ruins it. Every piece takes one film, one scene, or one technique, explains the machinery in detail, and then asks honestly whether the explanation cost anything.
+The challenge of writing simple prose with meaningful depth while working in conjunction with an artist to best communicate a theme drew me in, and I aspire to write children's picture books to one day show kids of my own.
 
-![Abstract composition of warm columns of varying height](/images/field-notes-detail-1.svg "Essay: on the needle drop.")![Abstract composition of a warm circle over ruled lines](/images/field-notes-detail-2.svg "Essay: on the reaction shot.")
+![Abstract composition of warm columns of varying height](/images/Bubble_jpeg.jpg "The Bubble that Stayed, art by Josh Ronda")![Abstract composition of a warm circle over ruled lines](/images/FablesFoibles_jpeg.jpg "Fable's Foibles, art by Madeline Nelson")
 
-## Selected pieces
+## The Bubble that Stayed
 
-List two or three highlights with a line each. Link them if they are published anywhere. If a piece got a response - an editor, a filmmaker, a comment section that turned into a real argument - say so.
+The Bubble that Stayed is a story about a bubble that follows the life of a young boy as he grows up. It captures simple moments of beauty throughout his life on its surface, and chooses to pop on his head, imparting the happy memories to him when he is an old man who has forgotten all the good in his life. The story is meant to remind us of the staying power of simple joys in our lives, and uses specific memories from my childhood and the married life of my grandparents for specific emotional scenes. 
 
-This is the section a hiring reader skims, so make each line do work. Title, one sentence on the argument, one sentence on why it mattered.
+The illustrations are underway, and I am collaborating with talented artist Josh Ronda, who works as an art teacher at San Luis Obispo Classical Academy. His artwork for the book reflects his whimsical abstract style, and he plans to use one-line art for most of the illustrations, with the final product being printed on a local risograph. 
+
+The process of working in tandem with an illustrator to tell a story has been a fantastic learning experience for me. I am challenged with each page to consider which parts of the narrative are better expressed through images or words, and I am gaining a better understanding of how the two are perfectly suited to tell a story together.
+
+## Fable's Foibles
+
+Fable's Foibles is a collection of picture books in progress that follows the foibles of a young dragon named Fable. The inspiration for these stories is rooted in my lifelong love of classic knight tales, such as Saint George and the Dragon and The Legends of King Arthur. However, these stories will be similar tales but told from the perspective of a dragon depicted in the short excerpt below:
+
+Fable was both curious and clumsy:
+Always wondering, and always tumbling.
+
+As a dragon who is never mean, just a little messy, Fable has been brought to life by small-town artist Madeline Nelson, based in Colorado. Her work with watercolors and colored pencil had me falling in love with her illustrations, and it is perfectly suited to depict a clumsy but well-meaning baby dragon on his many misunderstood adventures.

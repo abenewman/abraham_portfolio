@@ -2,19 +2,19 @@
 # Keep the quotes around each value.
 
 name: "Abraham Newman"
-role: "Writer & Story Editor"
-discipline: "Film, Television & Narrative Media"
-location: "Los Angeles, CA"
-email: "abraham.newman@example.com"
+role: "Worlds, Film, Novels"
+discipline: "World Building, Screenwriting, Storytelling"
+location: "San Luis Obispo, CA"
+email: "abrahammusic3@gmail.com"
 
 # The one line under your name on the home page.
-tagline: "I write stories about people who are almost, but not quite, telling the truth."
+tagline: "I am a creative writer with a passion for worldbuilding and a lifelong love of learning."
 
 # The short intro above the project list on the Work page.
 workIntro: "Six pieces across screenwriting, television, criticism and production. Placeholder copy - swap this for a line on what ties the work together."
 
 # The teaser in the box at the bottom of the home page.
-homeAboutTeaser: "Placeholder line about who Abraham is and what kind of rooms he wants to be in. Two sentences, no more."
+homeAboutTeaser: "Abraham is a creative writer passionate about building imaginative worlds and emotionally driven stories. He hopes to contribute as a writer to feature animation at studios such as DreamWorks Animation or Walt Disney Animation Studios."
 
 # The file people download from the Resume page.
 # Put the PDF in the "public" folder and write its name here after the slash.

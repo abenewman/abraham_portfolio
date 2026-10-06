@@ -1,24 +1,24 @@
 ---
-title: "Night Shift"
-navLabel: "Night Shift"
-kicker: "Original pilot"
-year: "2024"
-format: "Half-hour pilot · 34 pages"
-logline: "An overnight cleaning crew in a hospital that never stops running becomes the only group of people who see what actually happens there."
+title: "The Legends of Treera: Shifting"
+navLabel: "The Legends of Treera: Shifting"
+kicker: "Fantasy Series - In Progress"
+year: "2016-2026"
+format: "Novel"
+logline: "Twins Silvari and Syrena find their futures altered when an ancient magician tasks them to venture into The Forest of Endar and beyond in search of an ancient race of Shifters."
 
-cover: "/images/night-shift-cover.svg"
+cover: "/images/Treera_Map.png"
 coverAlt: "Abstract composition of soft warm windows in a dark grid"
 
-lead: "/images/night-shift-lead.svg"
+lead: "/images/Treera_Map.png"
 leadAlt: "Wide abstract composition of lit windows across a warm dark field"
 leadCaption: "Placeholder key art - replace with a poster or title treatment."
 
 facts:
-  "Format": "Half-hour pilot"
-  "Length": "34 pages"
-  "Genre": "Ensemble dramedy"
-  "Status": "Pilot plus series bible"
-  "Written": "2024"
+  "Format": "Fantasy Novel"
+  "Length": "430 Pages"
+  "Genre": "High Fantasy"
+  "Status": "Series In Progess"
+  "Written": "2016-2026"
 ---
 ## The pitch
 

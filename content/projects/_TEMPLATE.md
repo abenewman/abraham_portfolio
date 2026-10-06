@@ -10,7 +10,7 @@
 #
 # Keep the quotes around every value.
 
-title: "Your Project Title"
+title: "A Blacksmith's Purpose"
 
 # The main photo. Put the image file in the "public/images" folder, then write
 # its name here after /images/.

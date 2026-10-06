@@ -37,14 +37,16 @@ export default async function ProjectPage({ params }: PageProps<"/work/[slug]">)
           )}
         </header>
 
-        <Figure
-          src={project.lead}
-          alt={project.leadAlt}
-          caption={project.leadCaption}
-          ratio="16 / 9"
-          priority
-          className="rise mt-12 lg:mt-14"
-        />
+        {project.lead && (
+          <Figure
+            src={project.lead}
+            alt={project.leadAlt}
+            caption={project.leadCaption}
+            ratio="16 / 9"
+            priority
+            className="rise mt-12 lg:mt-14"
+          />
+        )}
 
         {project.facts.length > 0 && (
           <dl className="mt-12 grid gap-x-8 gap-y-6 border-y border-line py-8 sm:grid-cols-3 lg:grid-cols-5">

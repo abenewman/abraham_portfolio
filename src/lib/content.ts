@@ -175,7 +175,7 @@ export function getProjects(): Project[] {
       cover,
       coverAlt,
       navLabel: text(data, "navLabel") || title,
-      lead: text(data, "lead") || cover,
+      lead: data.lead === "" ? "" : text(data, "lead") || cover,
       leadAlt: text(data, "leadAlt") || coverAlt,
       leadCaption: text(data, "leadCaption"),
       kicker: text(data, "kicker"),
