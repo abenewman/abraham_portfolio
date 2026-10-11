@@ -36,6 +36,8 @@ logline: "One sentence that makes someone want to read the rest."
 lead: "/images/your-wide-image.jpg"
 leadAlt: "Describe what is in the image"
 leadCaption: "A caption under the image."
+# Optional: set a different shape, such as "3 / 4" for a vertical image.
+leadRatio: "16 / 9"
 
 # The line under the title on the Work page.
 format: "Feature screenplay · 100 pages"

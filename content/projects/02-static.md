@@ -3,7 +3,7 @@ title: "Beyond The Stormwall"
 navLabel: "Beyond The Stormwall"
 kicker: "Animation Feature Screenplay"
 year: "2026"
-format: "World and Screenplay - In Progess"
+format: "World and Screenplay"
 logline: "When a young thief and a wealthy idealist cross their artificial civilization’s forbidden Stormwall, they discover a thriving natural paradise—and learn they are long-separated twins. Together, they must decide whether to open this world to their depleted society or protect it from humanity’s return."
 
 cover: "/images/static-cover.svg"
@@ -20,7 +20,7 @@ facts:
   "Status": "In Progress"
   "Written": "2026"
 ---
-## Overview
+## The Story
 
 In the Manufactured Side, an artificial civilization devoid of nature and divided by wealth, a forbidden wall of violent storms looms over daily life. Mara, a young thief, is hired to rob Ren, an idealistic boy from a powerful family.
 
@@ -31,11 +31,20 @@ Reunited, Mara and Ren must decide whether to reveal this paradise to a society 
 > "This isn’t just some place we discovered, Mara. This is where we were born."  
 > "That doesn't mean it belongs to us."
 
-## The world
+## At the Heart of the Film
 
-Be specific about what you actually did, especially on collaborative work. Did you write the shooting draft? Sit in the edit? Rewrite on set when a location fell through the night before?
+Mara and Ren begin on opposite sides of the same society. Their different experiences shape what they expect from one another, whom they trust, and what they believe their discovery could mean.
 
-For this piece: wrote four drafts, ran the table read, and stayed through the edit to restructure the second act when the original cut ran long. The final film is closer to the third draft than the shooting draft, and the credits reflect a real collaboration.
+Learning they are siblings gives them a shared past, but building a relationship requires choices in the present. Their growing bond anchors the larger adventure: before they can decide how two worlds might coexist, they must learn how to face an uncertain future together.
 
-## Key Characters
+## Writer's Note
 
+With Beyond the Stormwall, I wanted to bring the wonder of discovering an entirely living world into an animated adventure about family, trust, and responsibility.
+
+The contrast between the manufactured civilization and the world beyond the storms creates opportunities for visual storytelling, particularly as familiar things—a tree, an animal, an open landscape—become extraordinary through the characters’ eyes.
+
+The central writing challenge is connecting that scale of discovery to Mara and Ren’s relationship. Their reunion gives the adventure its emotional stakes, while their conflicting responsibilities complicate the promise of a new world. Finding paradise is only the beginning; deciding how to care for it is the harder part.
+
+## Where it Stands
+
+I am developing the first draft of the script of Beyond the Stormwall. The story is outlined, the characters defined, and the world still growing. 

@@ -18,7 +18,7 @@ homeAboutTeaser: "Abraham is a creative writer passionate about building imagina
 
 # The file people download from the Resume page.
 # Put the PDF in the "public" folder and write its name here after the slash.
-resumeFile: "/abraham-newman-resume.pdf"
+resumeFile: "/Abraham_Newman's_Resume.pdf"
 
 # Links in the bottom of the sidebar and on the About page.
 # Delete any you do not want. Add more by copying the same three lines.

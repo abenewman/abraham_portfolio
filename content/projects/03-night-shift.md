@@ -20,19 +20,16 @@ facts:
   "Status": "Series In Progess"
   "Written": "2016-2026"
 ---
-## The pitch
+## The Story
 
-Placeholder copy. For a pilot, lead with the engine - the thing that generates a story every week - not the plot of episode one. Reviewers read the logline and immediately ask what episode six looks like.
+Twins Silvari and Syrena have spent their lives training for the ranking matches that will secure them coveted positions in Furyestar’s army. When the legendary magician Kenbar offers another path—away from the war and into the continent’s most dangerous, uncharted region—they glimpse a different future. Their decision is quickly followed by their departure, hastened by deadly creatures and assassins who drive them into the unknown.
 
-Here the engine is access. The cleaning crew goes everywhere, is spoken to by no one, and therefore hears everything. Each episode is a piece of hospital business that the people in charge would rather nobody witnessed.
+Accompanied by dragons newly bonded to them through Kenbar, the twins discover that their escape has drawn them into a conflict thousands of years old, spanning the entire continent. And the farther they travel, the more they question whether their futures were ever theirs to choose.
 
-## The world
+## The Series
 
-Describe the setting as a system, not a backdrop. What are its rules, and who benefits from them? A good world has a hierarchy your characters can climb, fall down, or refuse.
+Shifting is book one in a planned and outlined five book series, The Legends of Treera. The series is meant to be a high-fantasy epic with gospel shadows heavily influencing the story and world. As a christian author, it has always been important to me that biblical values are evident and on display in my writing, but this series is meant to be the flagship of that sentiment. 
 
-This is also the place to talk about research. Who did you interview? What did you get wrong at first, and what corrected you?
+## The World
 
-![Abstract composition of warm lit columns against a dark ground](/images/night-shift-detail-1.svg "Placeholder tone reference.")
-
-> Nobody in this building is lying. They are all just answering a slightly different question than the one they were asked.
-> -- From the series bible
+While book one takes place on Treera, the series spans across seven different worls, another of which is earth. With a blend of folk creatures and races as well as species of my own creation, two different main branches of magic with countless offshoots, and a complete history that dates back over 30,000 years, the world has been the main focus of my creation thus far. From original flora to an ocean of freshwater, Treera itself is a living and breathing continent, where each species has a distinct culture and place in the world. 

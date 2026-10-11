@@ -42,7 +42,7 @@ export default async function ProjectPage({ params }: PageProps<"/work/[slug]">)
             src={project.lead}
             alt={project.leadAlt}
             caption={project.leadCaption}
-            ratio="16 / 9"
+            ratio={project.leadRatio}
             priority
             className="rise mt-12 lg:mt-14"
           />

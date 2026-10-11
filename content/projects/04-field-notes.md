@@ -3,7 +3,7 @@ title: "Children's Picture Books"
 navLabel: "Children's Picture Books"
 kicker: "Children's Picture Book - In Progress"
 year: "2026"
-format: "Essay collection · nine pieces"
+format: "Children's Picture Books"
 logline: "Various children's picture book projects working in conjunction with talented artists and ilustrators."
 
 cover: "/images/Bubble_jpeg.jpg"

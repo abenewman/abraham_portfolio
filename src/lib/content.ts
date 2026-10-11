@@ -131,6 +131,7 @@ export type Project = {
   lead: string;
   leadAlt: string;
   leadCaption: string;
+  leadRatio: string;
   kicker: string;
   year: string;
   format: string;
@@ -178,6 +179,7 @@ export function getProjects(): Project[] {
       lead: data.lead === "" ? "" : text(data, "lead") || cover,
       leadAlt: text(data, "leadAlt") || coverAlt,
       leadCaption: text(data, "leadCaption"),
+      leadRatio: text(data, "leadRatio") || "16 / 9",
       kicker: text(data, "kicker"),
       year: text(data, "year"),
       format: text(data, "format"),

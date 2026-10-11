@@ -4,17 +4,18 @@ navLabel: "A Blacksmith's Purpose"
 kicker: "Animation Feature screenplay"
 year: "2026"
 format: "Animation Feature screenplay · 102 pages"
-logline: "Hazel Grace Briar is a blacksmith who believes her worth comes from her ability to fix things. Presented with a broken magical sword she can’t fix by Prince Rowan, who’s running from his responsibility, they must fix the blade or find a different solution before a ruthless general bent on war catches them. "
+logline: "Hazel Grace Briar is a blacksmith who believes her worth comes from her ability to fix things. Presented with a broken magical sword she can’t fix by Prince Rowan, who’s running from his responsibilities, they must fix the blade or find a different solution before a ruthless general bent on war catches them. "
 
-cover: "/images/long-way-cover.svg"
+cover: "/images/ABP_lead.jpeg"
 coverAlt: "Warm abstract composition of a low sun over layered highway bands"
 
-lead: "/images/long-way-lead.svg"
+lead: "/images/ABP_lead.jpeg"
 leadAlt: "Wide abstract landscape of dusk-colored bands and a single road line"
-leadCaption: "Placeholder key art - replace with a still, cover, or title card."
+leadCaption: "Cover art, by Megan Jackson."
+leadRatio: "3 / 4"
 
 facts:
-  "Format": "Animation Feature Screenplay"
+  "Format": "Animated Musical Feature Screenplay"
   "Length": "102 pages"
   "Genre": "Family Adventure"
   "Status": "First draft, editing"
@@ -48,9 +49,11 @@ The Cabin: Whimsical, ancient, and surrounded by nature, the grandfather's cabin
 
 > "Strength isn't about force; it's about knowing when not to use it."
 
-## Development / Behind the Story
+## Writers Note
 
-This story came about from an initial idea I had about a young blacksmith who put their value in their ability to create things. Hazel Briar quickly took form as a stubborn blacksmith, and Prince Rowan, a soft-spoken Prince, naturally took form soon after to complement her weaknesses. Their dynamic and mutual growth built the world for me, and as their characters got more defined, the story wrote itself through their actions and reactions to basic conflicts. I immediately loved how neither character was saved by the other, but that they mutually helped each other grow, and how the romance springs from mutual respect rather than people who don’t get along forced to work together. 
+A Blacksmith’s Purpose began with a young blacksmith who measured her worth by what she could make. That idea became Hazel Briar: stubborn, skilled, and more comfortable proving her usefulness than believing she had value beyond it. Prince Rowan emerged as a soft-spoken counterpart, and their relationship became the foundation of the story. As I came to understand what each character wanted, feared, and struggled to express, their choices began to shape the world around them.
+
+What drew me most to Hazel and Rowan was the reciprocity of their growth. Each has something to offer the other, but both must take responsibility for changing. I wanted their romance to develop through respect: noticing each other’s abilities, taking each other’s hopes seriously, and gradually recognizing the person beneath the role. Their relationship gave me a way to explore the question at the heart of the film: when so much of your identity rests on what you can do for others, how do you begin to believe you are worthy of love simply as yourself?
 
 ## Where it stands
 

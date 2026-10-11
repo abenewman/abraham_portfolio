@@ -1,52 +1,68 @@
 ---
 # The paragraph at the top of the Resume page.
-summary: "Placeholder summary. Two or three lines describing what Abraham does, the kind of room he wants to be in, and what he is looking for right now. Recruiters read this and nothing else if it does not earn the next ten seconds."
-
+summary: "I’m a creative writer drawn to animated films, reimagined fairy tales, and fantastical worlds where relationships drive the adventure. Across original screenplays, adaptations, and children’s stories, I explore how characters learn to trust, find belonging, and recognize their own worth. Alongside my political science studies, I’m working toward a career in animation, bringing a love of imaginative storytelling and worldbuilding, along with a careful, questioning approach to story development."
 # Jobs, newest first. Copy a whole block to add another.
 experience:
-  - role: "Development Intern"
-    org: "Placeholder Production Company"
-    dates: "Summer 2025"
-    location: "Los Angeles, CA"
+  - role: "Writer & Development"
+    org: "Independent Projects"
+    dates: "2025 - Present"
+    location: "San Luis Obispo, CA"
     bullets:
-      - "Wrote coverage on forty-plus submitted screenplays and pitched three to the weekly development meeting."
-      - "Maintained the tracking grid for open writing assignments across two active projects."
-      - "Drafted comparison decks for a feature in packaging, including tone, budget and audience precedents."
+      - "Developed and revised original and adaptation-based projects, including A Blacksmith’s Purpose, The Bubble That Stayed, and animated anthology proposals rooted in fairytale tradition and visual storytelling."
+      - "Prepared independent script coverage for The Wild Robot, examining structure, character arcs, thematic undercurrents, and the screenplay’s strengths, tensions, and opportunities for deeper clarity."
+      - "Partnered with artists and creative collaborators to shape story materials, sharpen narrative focus, and identify the moments where image, dialogue, and structure most clearly carry the emotional truth of the work."
 
-  - role: "Film Editor"
-    org: "Placeholder Student Magazine"
-    dates: "2024 - present"
-    location: "Campus"
+  - role: "Teacher / Classroom Volunteer"
+    org: "Grace Central Coast"
+    dates: "August 2018 - Present"
+    location: "San Luis Obispo, CA"
     bullets:
-      - "Commission and edit six to eight pieces per issue across a staff of eleven contributing writers."
-      - "Rebuilt the section's pitch process, cutting time from pitch to publication roughly in half."
-      - "Write a recurring criticism column; most-read section piece two issues running."
+      - "Teach small groups of children and adapt lessons to meet a range of ages, attention levels, and learning needs."
+      - "Communicate clearly with parents and team members to maintain a positive, supportive, and structured learning environment."
+      - "Create engaging activities that encourage curiosity, confidence, and participation in group learning settings."
 
-  - role: "Writer & Assistant Editor"
-    org: "Placeholder Student Feature"
-    dates: "2023"
-    location: "On location"
+  - role: "Barista / Kitchen Staff"
+    org: "Banner Coffee Company"
+    dates: "May 2024 - August 2026"
+    location: "San Luis Obispo, CA"
     bullets:
-      - "Wrote four drafts of the shooting script and rewrote on set when locations changed."
-      - "Assisted the edit through picture lock, including a second-act restructure."
+      - "Managed simultaneous food and beverage orders in a fast-paced service environment while maintaining accuracy and strong customer care."
+      - "Coordinated with teammates during peak periods to keep service efficient and organized."
+      - "Balanced customer-facing communication with back-of-house tasks, maintaining a calm and reliable workflow during busy periods."
 
 education:
-  - school: "California Polytechnic University"
-    credential: "B.A. Political Science, concentration in Global Politics"
-    dates: "2024 - 2028"
-    detail: "Deans List for 5 terms"
+  - school: "California Polytechnic State University"
+    credential: "B.A. in Political Science, concentration in Global Politics"
+    dates: "Expected June 2028"
+    detail: "Cumulative GPA: 3.81; Dean’s List (five terms); President’s List (2024–2025, 2025–2026); Study Abroad: Yonsei University, South Korea, Fall 2026"
 
 # Each heading becomes a column. Add or remove headings and items freely.
 skills:
   Writing:
     - "Screenwriting"
-    - "Novel Development"
-    - "Research Papers"
-    - "Children's Picture Books"
-  Production:
-    - "Script Coverage"
     - "Story Analysis"
+    - "Script Coverage"
     - "Adaptation Proposals"
+    - "Children's Picture Books"
+    - "Research Writing"
+  Production:
+    - "Development"
+    - "Worldbuilding"
+    - "Character Analysis"
+    - "Revision & Editing"
+    - "Collaborative Creative Development"
+  Research:
+    - "Political Analysis"
+    - "Source Comparison"
+    - "Historical Context"
+    - "Analytical Writing"
   Tools:
     - "Final Draft"
-    - "Google Suite"
+    - "Google Docs"
+    - "Google Sheets"
+    - "Google Slides"
+  Additional:
+    - "Two poems published in Hanging Lantern Review"
+    - "Nine years of piano study"
+    - "Three years of orchestral composition"
+    - "Available to relocate"

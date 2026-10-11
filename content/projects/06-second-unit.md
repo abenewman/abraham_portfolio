@@ -3,7 +3,7 @@ title: "Story Analysis & Development"
 navLabel: "Story Analysis & Development"
 kicker: "Production writing"
 year: "2026"
-format: "Animation Feature Screenplay"
+format: "Analytical Samples"
 logline: "Sample Script Coverages and Animated Adaptation Proposals to showcase a more anlaytical skillset."
 
 cover: "/images/second-unit-cover.svg"
